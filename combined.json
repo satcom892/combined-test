@@ -1,4 +1,10 @@
 {
+  "game": {
+    "id": "fan_test",
+    "name": "Fan-Made Army Builder",
+    "pointsLimit": 800,
+    "factions": ["unsc"]
+  },
   "factions": [
     {
       "id": "unsc",
