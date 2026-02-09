@@ -1,0 +1,20 @@
+{
+  "factions": [
+    {
+      "id": "unsc",
+      "name": "United Nations Space Command",
+      "image": "https://drive.google.com/uc?id=1ppiwXLjKOBxQfUJB_BI_jS4G3ErltQQY"
+    }
+  ],
+  "units": [
+    {
+      "id": "odst_2nd_lieutenant_ma5k",
+      "faction": "unsc",
+      "name": "ODST 2nd Lieutenant",
+      "subtitle": "MA5K Avenger Carbine",
+      "points": 28,
+      "max": 2,
+      "image": "https://drive.google.com/uc?id=1ppiwXLjKOBxQfUJB_BI_jS4G3ErltQQY"
+    }
+  ]
+}
